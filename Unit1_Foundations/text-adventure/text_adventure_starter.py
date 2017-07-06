@@ -42,5 +42,7 @@ elif user_input == "right":
             print ("you take 2 hours longer, but you get the picture! Nice job!")
         elif user_input3 == "climb":
             print ("you're spooked from all of the scary stuff during your hike, you climb out and go home. GAME OVER!!!!")
+else:
+    print ("umm wyd")
 
  
